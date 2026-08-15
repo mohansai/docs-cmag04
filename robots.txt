@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-xfi5dp.koi888win.online/sitemap.xml
